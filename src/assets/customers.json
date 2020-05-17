@@ -1,0 +1,27 @@
+[
+    {
+        "id": "8fc7eed2-cdc6-400c-9396-2378b60b0a1c",
+        "customerName": "Stan Lee",
+        "email": "mbrimacombe7@ind.com"
+    },
+    {
+        "id": "6cfac031-e3c7-4c99-b15b-0df49203d2we",
+        "customerName": "Peter stoin",
+        "email": "ytd@usa.com"
+    },
+    {
+        "id": "ced198c5-945b-4ea4-b550-b02f0f4588c6",
+        "customerName": "James wales",
+        "email": "ytduk@ox.ac.uk"
+    },
+    {
+        "id": "1b6934ec-6279-404f-rtyd-a4fca1d32071",
+        "customerName": "Stephen Fluin",
+        "email": "ytdmalaysia@so-net.ne.jp"
+    },
+    {
+        "id": "0979ca2d-1043-48f1-werd-e3343ea05a05",
+        "customerName": "Mark Wood",
+        "email": "ytdaus@phpbb.com"       
+    }   
+]

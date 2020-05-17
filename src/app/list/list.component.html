@@ -1,0 +1,12 @@
+
+<div class="main-div">
+<h3>List</h3>
+<mat-form-field>
+  <mat-select placeholder="Select Customer">
+    <mat-option *ngFor="let customer of customers" [value]="customer.id" (click)="selected($event, customer.id)">
+      {{customer.customerName}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+</div> 
+
